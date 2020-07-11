@@ -1,0 +1,14 @@
+/Users/user/Projects/MySuperBank2/MySuperBank2/bin/Debug/netcoreapp3.1/MySuperBank2.deps.json
+/Users/user/Projects/MySuperBank2/MySuperBank2/bin/Debug/netcoreapp3.1/MySuperBank2.runtimeconfig.json
+/Users/user/Projects/MySuperBank2/MySuperBank2/bin/Debug/netcoreapp3.1/MySuperBank2.runtimeconfig.dev.json
+/Users/user/Projects/MySuperBank2/MySuperBank2/bin/Debug/netcoreapp3.1/MySuperBank2.dll
+/Users/user/Projects/MySuperBank2/MySuperBank2/bin/Debug/netcoreapp3.1/MySuperBank2.pdb
+/Users/user/Projects/MySuperBank2/MySuperBank2/obj/Debug/netcoreapp3.1/MySuperBank2.csprojAssemblyReference.cache
+/Users/user/Projects/MySuperBank2/MySuperBank2/obj/Debug/netcoreapp3.1/MySuperBank2.AssemblyInfoInputs.cache
+/Users/user/Projects/MySuperBank2/MySuperBank2/obj/Debug/netcoreapp3.1/MySuperBank2.AssemblyInfo.cs
+/Users/user/Projects/MySuperBank2/MySuperBank2/obj/Debug/netcoreapp3.1/MySuperBank2.csproj.CoreCompileInputs.cache
+/Users/user/Projects/MySuperBank2/MySuperBank2/obj/Debug/netcoreapp3.1/MySuperBank2.dll
+/Users/user/Projects/MySuperBank2/MySuperBank2/obj/Debug/netcoreapp3.1/MySuperBank2.pdb
+/Users/user/Projects/MySuperBank2/MySuperBank2/obj/Debug/netcoreapp3.1/MySuperBank2.genruntimeconfig.cache
+/Users/user/Projects/MySuperBank2/MySuperBank2/bin/Debug/netcoreapp3.1/Humanizer.dll
+/Users/user/Projects/MySuperBank2/MySuperBank2/obj/Debug/netcoreapp3.1/MySuperBank2.csproj.CopyComplete

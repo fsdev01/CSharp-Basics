@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{40154A6B-08CD-4998-B55E-0389E4616869}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MySuperBank2/Program.cs">
+    <Files>
+      <File FileName="MySuperBank2/Program.cs" Line="13" Column="32" />
+      <File FileName="MySuperBank2/BankAccount.cs" Line="78" Column="70" />
+      <File FileName="MySuperBank2/Transaction.cs" Line="3" Column="23" />
+      <File FileName="BankingTests/UnitTest1.cs" Line="13" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MySuperBank2" expanded="True">
+            <Node name="BankingTests" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="MySuperBank2" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="MySuperBank2" expanded="True">
+            <Node name="BankingTests" expanded="True">
+              <Node name="BankingTests" expanded="True">
+                <Node name="BasicsTests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BankingTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <RunToCursorBreakpoint file="/Users/user/Projects/MySuperBank2/BankingTests/UnitTest1.cs" relfile="BankingTests/UnitTest1.cs" line="9" column="23" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MySuperBank2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
