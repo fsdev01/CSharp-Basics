@@ -1,0 +1,12 @@
+/Users/user/Projects/MySuperBank/MySuperBank/bin/Debug/netcoreapp3.1/MySuperBank.deps.json
+/Users/user/Projects/MySuperBank/MySuperBank/bin/Debug/netcoreapp3.1/MySuperBank.runtimeconfig.json
+/Users/user/Projects/MySuperBank/MySuperBank/bin/Debug/netcoreapp3.1/MySuperBank.runtimeconfig.dev.json
+/Users/user/Projects/MySuperBank/MySuperBank/bin/Debug/netcoreapp3.1/MySuperBank.dll
+/Users/user/Projects/MySuperBank/MySuperBank/bin/Debug/netcoreapp3.1/MySuperBank.pdb
+/Users/user/Projects/MySuperBank/MySuperBank/obj/Debug/netcoreapp3.1/MySuperBank.csprojAssemblyReference.cache
+/Users/user/Projects/MySuperBank/MySuperBank/obj/Debug/netcoreapp3.1/MySuperBank.AssemblyInfoInputs.cache
+/Users/user/Projects/MySuperBank/MySuperBank/obj/Debug/netcoreapp3.1/MySuperBank.AssemblyInfo.cs
+/Users/user/Projects/MySuperBank/MySuperBank/obj/Debug/netcoreapp3.1/MySuperBank.csproj.CoreCompileInputs.cache
+/Users/user/Projects/MySuperBank/MySuperBank/obj/Debug/netcoreapp3.1/MySuperBank.dll
+/Users/user/Projects/MySuperBank/MySuperBank/obj/Debug/netcoreapp3.1/MySuperBank.pdb
+/Users/user/Projects/MySuperBank/MySuperBank/obj/Debug/netcoreapp3.1/MySuperBank.genruntimeconfig.cache

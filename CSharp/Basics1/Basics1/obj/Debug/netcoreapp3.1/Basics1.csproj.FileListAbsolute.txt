@@ -1,0 +1,12 @@
+/Users/user/Projects/Basics1/Basics1/bin/Debug/netcoreapp3.1/Basics1.deps.json
+/Users/user/Projects/Basics1/Basics1/bin/Debug/netcoreapp3.1/Basics1.runtimeconfig.json
+/Users/user/Projects/Basics1/Basics1/bin/Debug/netcoreapp3.1/Basics1.runtimeconfig.dev.json
+/Users/user/Projects/Basics1/Basics1/bin/Debug/netcoreapp3.1/Basics1.dll
+/Users/user/Projects/Basics1/Basics1/bin/Debug/netcoreapp3.1/Basics1.pdb
+/Users/user/Projects/Basics1/Basics1/obj/Debug/netcoreapp3.1/Basics1.csprojAssemblyReference.cache
+/Users/user/Projects/Basics1/Basics1/obj/Debug/netcoreapp3.1/Basics1.AssemblyInfoInputs.cache
+/Users/user/Projects/Basics1/Basics1/obj/Debug/netcoreapp3.1/Basics1.AssemblyInfo.cs
+/Users/user/Projects/Basics1/Basics1/obj/Debug/netcoreapp3.1/Basics1.csproj.CoreCompileInputs.cache
+/Users/user/Projects/Basics1/Basics1/obj/Debug/netcoreapp3.1/Basics1.dll
+/Users/user/Projects/Basics1/Basics1/obj/Debug/netcoreapp3.1/Basics1.pdb
+/Users/user/Projects/Basics1/Basics1/obj/Debug/netcoreapp3.1/Basics1.genruntimeconfig.cache
