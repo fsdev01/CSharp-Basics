@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{870217ED-0DE5-43F0-B40D-4FB8353C4556}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ContosoCrafts/Components/ProductList.razor">
+    <Files>
+      <File FileName="ContosoCrafts/Pages/Index.cshtml" Line="14" Column="46" />
+      <File FileName="ContosoCrafts/Components/ProductList.razor" Line="75" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ContosoCrafts" expanded="True">
+            <Node name="ContosoCrafts" expanded="True">
+              <Node name="Components" expanded="True">
+                <Node name="ProductList.razor" selected="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="Error.cshtml" expanded="True" />
+                <Node name="Index.cshtml" expanded="True" />
+                <Node name="Privacy.cshtml" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ContosoCrafts PreferredExecutionTarget="/Applications/Firefox.app" />
+</Properties>
